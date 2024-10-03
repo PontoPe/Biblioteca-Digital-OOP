@@ -16,8 +16,10 @@ public class Main {
         ebook2.baixar();
         video1.descricao();
         video1.visualizar();
+        video1.baixar();
         video2.descricao();
         video2.visualizar();
+        video2.baixar();
 
     }
 }
